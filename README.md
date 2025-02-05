@@ -1,11 +1,7 @@
-# Calculateur d'Intérêt Simple
-
-Ce projet est un calculateur permettant de déterminer l’intérêt simple sur un capital donné.
-
-## 📥 Entrées
-- `p` : Montant principal  
-- `t` : Durée en années  
-- `r` : Taux d'intérêt annuel  
-
-## 📤 Sortie
-- `simple interest = p * t * r / 100`
+Un calculateur qui calcule les intérêts simples donnés le principal, le taux d'intérêt annuel et la période de temps en années.
+Entrée :
+   p, montant principal
+   t, période de temps en années
+   r, taux d'intérêt annuel
+Sortie :
+   intérêts simples = p*t*r
